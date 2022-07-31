@@ -1,0 +1,23 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 860px) {
+    html {
+        font-size: 16px;
+        background-image:url("../image.jpg");
+        
+    }
+}
+
+html {
+  position: fixed;
+  min-height: 100%;
+
+  
+}
+
+body {
+  margin-bottom: 60px;
+  margin-left:720px;
+}
